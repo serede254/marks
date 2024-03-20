@@ -1,12 +1,13 @@
-# Grade Generator
+# POINT GENERATOR
 ## About
-this program is used to assign grades to drivers by calculating the points from the speed entered. The program will suspend the license when the indicates speed is more then 130km/hr
+this program is used to append grades to marks earned by students. it is designed to be used primarily by teachers as it will reduce the hustle of manually assigning grades
 ## Set Up Instructions
-### Requirements
- .Intel core i3 processor
- .Windows 95 or higher
- .Github account
+### System Requirements
+ * Intel core i3 processor
+ * Windows 95 or higher
+ * Github account
+ 
 ### How To Install
-1.Open the zipfile 
-2.Extract to desired folder
-3.Open the .exe file
+* Open the zipfile 
+* Extract to desired folder
+* Open the .exe file
